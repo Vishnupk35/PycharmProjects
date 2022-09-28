@@ -1,0 +1,4 @@
+fetch all 4g mobiles.
+qs=Mobiles.objects.filter(band="4g")
+print all mobiles less than 32K
+price<25k 5g=
