@@ -1,0 +1,25 @@
+body{background-color: rgb(241, 198, 198);}
+td{
+width: 200px;
+height: 300px;
+}
+/* .item-1{background-color: red;}
+.item-2{background-color: blue;}
+.item-3{background-color: green;}
+.item-4{background-color: brown;} */
+
+.first>:nth-child(1){
+    background-color: red;
+}
+
+.first>:nth-child(2){
+    background-color: rgb(36, 11, 222);
+}
+
+.first>:nth-child(3){
+    background-color: rgb(50, 233, 21);
+}
+
+.first>:nth-child(4){
+    background-color: rgba(90, 3, 3, 0.637);
+}

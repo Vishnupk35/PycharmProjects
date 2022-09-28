@@ -1,0 +1,35 @@
+.row{
+    margin: auto;
+    width: 70%;
+    height: 500px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+
+    /* justify-content: center; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+}
+.one,.two,.three,.four{
+    width: 200px;
+    height: 200px;
+}
+
+.one{
+    /* flex: 1; */
+    background-color: aqua;
+}
+
+.two{
+    /* flex: 2; */
+    background-color: blue;}
+
+.three{
+    /* flex: 2; */
+    background-color: greenyellow;}
+
+.four{
+    /* flex: 1; */
+    background-color: blueviolet;}

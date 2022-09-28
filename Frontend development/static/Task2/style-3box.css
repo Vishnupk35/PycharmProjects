@@ -1,0 +1,11 @@
+.col{border: 1px solid black;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+
+.col-1{background-color: red;
+margin: 0px 10px 0px 0px;}
+.col-2{background-color: blueviolet;
+    margin: 0px 10px 0px 0px;}
+.col-3{background-color: green;}

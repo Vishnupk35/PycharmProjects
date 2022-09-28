@@ -1,0 +1,16 @@
+.row{
+    width: 80%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+header{
+    background-color: blueviolet;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 0;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
